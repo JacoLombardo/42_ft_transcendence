@@ -1,6 +1,6 @@
 # Transcendence (42)
 
-A full-stack multiplayer Pong web application built as part of the 42 curriculum. Players can compete in real-time matches or tournaments, chat with other users, and have their tournament results permanently recorded on the Ethereum blockchain. The app supports GitHub OAuth authentication, user profiles with friends/blocked lists, and is available in three languages.
+Transcendence is the 42 School web specialization's final project: a full-stack multiplayer Pong web application that combines real-time gameplay, user management, tournaments, and blockchain integration. Players can compete in real-time matches or tournaments, chat with other users, and have their tournament results permanently recorded on the Ethereum blockchain. The app supports GitHub OAuth authentication, user profiles with friends/blocked lists, and is available in three languages.
 
 ---
 
